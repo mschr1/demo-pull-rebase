@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Marko
 
 # TECHNOLOGY COLOPHON
 
